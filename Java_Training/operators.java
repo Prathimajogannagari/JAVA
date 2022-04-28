@@ -1,4 +1,4 @@
-package Java_Training;
+
 
 public class Operators {
     public static void main(String[] args, boolean b) {

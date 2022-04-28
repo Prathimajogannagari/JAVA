@@ -1,4 +1,4 @@
-package Java_Training;
+
 
 public class Task {
     public static void checkForAdult(int age) {
