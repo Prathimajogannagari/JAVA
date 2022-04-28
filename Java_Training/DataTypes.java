@@ -1,8 +1,7 @@
 package Java_Training;
 
-public package Java_Training.Trainer_Aaryan.Java_22nd;
+public class dataTypes {
 
-public class DataTypes {
     public static void main(String[] args) {
         // Numbers -> Integers
         int number = 44;
@@ -25,6 +24,4 @@ public class DataTypes {
         System.out.println(SingleChar);
         System.out.println(bool);
     }
-}class DataTypes {
-    
 }

@@ -1,17 +1,15 @@
- Java_Training.Trainer_Aaryan.Java_22nd;
+package Java_Training;
 
-    public class Operators {
-        public static void main(String[] args, boolean b) {
-            System.out.println(1 < 2); // true
-            System.out.println(1 > 2); // false
-    
-            System.out.println(2 > 2); // false
-            System.out.println(2 >= 2); // true
-    
-            System.out.println(4 == 5); // false
-            // System.out.println(4 == 4; // true
-        }
-    } 
-        
+public class Operators {
+    public static void main(String[] args, boolean b) {
+        System.out.println(1 < 2); // true
+        System.out.println(1 > 2); // false
+
+        System.out.println(2 > 2); // false
+        System.out.println(2 >= 2); // true
+
+        System.out.println(4 == 5); // false
+        // System.out.println(4 == 4; // true
     }
-}
+}  
+
