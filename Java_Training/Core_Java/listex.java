@@ -1,5 +1,12 @@
 package Core_Java;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Iterator;
+import java.util.List;
+import java.util.function.Consumer;
+
 public class listex {
     public static List<Integer> convertIntoList() {
         int[] arr = {10, 15, 45, 67, 98};
