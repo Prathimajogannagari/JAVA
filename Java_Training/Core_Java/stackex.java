@@ -11,7 +11,6 @@ public class stackex {
         s.push(56);
 
         s.pop();
-
         System.out.println(s.isEmpty());
 
         s.forEach(System.out::println);
