@@ -1,4 +1,4 @@
-package Core_Java;
+
 
 @FunctionalInterface
 public interface inex {
