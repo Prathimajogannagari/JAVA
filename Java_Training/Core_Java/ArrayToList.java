@@ -1,8 +1,9 @@
 package Core_Java;
+
 import java.util.ArrayList;
 import java.util.List;
 
-public class ArrayToList{
+public class ArrayToList {
     public static void convert() {
         int[] array = new int[4];
         array[0] = 4;
@@ -23,5 +24,5 @@ public class ArrayToList{
     public static void main(String[] args) {
         convert();
     }
-}
 
+}
