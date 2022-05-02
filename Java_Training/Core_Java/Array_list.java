@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.function.Consumer;
 
-public class Array_list {
+public class Array_List {
    
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>();
