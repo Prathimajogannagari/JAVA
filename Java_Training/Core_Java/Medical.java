@@ -101,4 +101,4 @@ public class Medical {
         System.out.println(p2);
         System.out.println(p3);
     }
-}
+}    
